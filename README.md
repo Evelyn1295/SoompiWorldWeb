@@ -1,27 +1,45 @@
-# SoompiWorldWeb
+<img align="right" width="100" height="100" src="https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
+# Soompi World
 
-## Development server
+<p align="center"><strong>Evelyn Gisel Flores</strong></p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* [Our Project](#project)
 
-## Code scaffolding
+* [Plattform](#plattform)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* [Tools](#tools)
 
-## Build
+* [Link](#link)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+## <a name="plattform"></a>Our Project
+<p align="center">
+  <img src="https://github.com/alvarofc/Fantastic-For-Loop-Web/blob/master/src/assets/Angular.JPG">
+  <img src="https://github.com/alvarofc/Fantastic-For-Loop-Web/blob/master/src/assets/Heroku_Logo.JPG">
+  <img src="https://github.com/alvarofc/Fantastic-For-Loop-Web/blob/master/src/assets/Microservices.JPG">
+  <img src="https://github.com/alvarofc/Fantastic-For-Loop-Web/blob/master/src/assets/SpringBoot.JPG">
+</p>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## <a name= "plattorm"></a>Web
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## <a name="tools"></a>Tools
+- IntelliJ (Compile and run Java Program, JDK 11)
+- Maven
 
-## Further help
+**Backend**
+- Spring Boot Dependencies (Spring Boot DevTools, Spring Data JPA, Spring Web)
+- Netflix OSS (Eureka, Ribbon, Hystrix)
+- Postman 
+- Swagger (API Document with HTML)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+**Frontend**
+- Angular
+- Boostrap
+
+
+## <a name="link"></a>Link
+
+
+

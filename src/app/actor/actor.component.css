@@ -1,0 +1,15 @@
+.selected {
+  background-color: #cfd8dc;
+  padding: 1%;
+  border-radius: 3px;
+}
+
+.top-buttons {
+  display: flex;
+  width: 180px;
+  justify-content: space-between;
+}
+
+#close-button {
+  margin-right: 7px;
+}
