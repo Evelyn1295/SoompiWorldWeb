@@ -14,25 +14,17 @@ import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { AppComponent } from './app.component';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { LoginComponent } from './login/login.component';
-import { AccountComponent } from './account/account.component';
-import { ContactComponent } from './contact/contact.component';
-import { LeadComponent } from './lead/lead.component';
-import { OpportunityComponent } from './opportunity/opportunity.component';
-import { SalesrepComponent } from './salesrep/salesrep.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatSelectModule } from '@angular/material/select';
 import { MatMenuModule } from '@angular/material/menu';
-import { ConvertAccountLeadComponent } from './convert-account-lead/convert-account-lead.component';
 import * as echarts from 'echarts';
 import { NgxEchartsModule } from 'ngx-echarts';
 import { MatDividerModule } from '@angular/material/divider';
 import { SideBarComponent } from './side-bar/side-bar.component';
-import { DashboardComponent } from './dashboard/dashboard.component';
 import { MatListModule } from '@angular/material/list';
 import { MatIconModule } from '@angular/material/icon';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatDialogModule } from '@angular/material/dialog';
-import { ConvertLeadComponent } from './convert-lead/convert-lead.component';
 import { AuthGuard } from './auth.guard';
 import { CarouselModule } from 'ngx-owl-carousel-o';
 import { ActorComponent } from './actor/actor.component';
@@ -50,16 +42,7 @@ import { SoloistsComponent } from './soloists/soloists.component';
     AppComponent,
     WelcomeComponent,
     LoginComponent,
-    AccountComponent,
-    ContactComponent,
-    LeadComponent,
-    OpportunityComponent,
-    SalesrepComponent,
-    ConvertLeadComponent,
-    ConvertAccountLeadComponent,
     SideBarComponent,
-    DashboardComponent,
-    ConvertLeadComponent,
     ActorComponent,
     SeriesComponent,
     MoviesComponent,
