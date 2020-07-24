@@ -4,25 +4,34 @@
 
 <p align="center"><strong>Evelyn Gisel Flores</strong></p>
 
-* [Our Project](#project)
-
-* [Plattform](#plattform)
+* [My Project](#project)
 
 * [Tools](#tools)
 
 * [Link](#link)
 
+## <a name="project"></a>My Project
 
-## <a name="plattform"></a>Our Project
-<p align="center">
-  <img src="https://github.com/alvarofc/Fantastic-For-Loop-Web/blob/master/src/assets/Angular.JPG">
-  <img src="https://github.com/alvarofc/Fantastic-For-Loop-Web/blob/master/src/assets/Heroku_Logo.JPG">
-  <img src="https://github.com/alvarofc/Fantastic-For-Loop-Web/blob/master/src/assets/Microservices.JPG">
-  <img src="https://github.com/alvarofc/Fantastic-For-Loop-Web/blob/master/src/assets/SpringBoot.JPG">
-</p>
+My main motivation to do this project was based on something I like, which is Korean culture.
+
+Thanks to globalization, especially the last film success that was "Parasites" and the expansion of kpop. 
+Many people are interested in knowing a little bit about this culture.
 
 
-## <a name= "plattorm"></a>Web
+The main way to know the culture nowadays is through movies, series and k-pop.
+
+With this theme, is what I have based on for its development.
+
+
+Using what I have learned in the course, I have tried to do my best.
+
+Although I know that there is still a lot to improve, I will continue to improve it over time.
+
+
+Thank you for everything you have taught me. You have opened up a path for me to continue learning.
+
+Thank you very much!
+
 
 ## <a name="tools"></a>Tools
 - IntelliJ (Compile and run Java Program, JDK 11)
@@ -38,8 +47,24 @@
 - Angular
 - Boostrap
 
+**Deploy**
+- Heroku plattform
+
+--Backend
+  [IdolGroup](https://soompiworld-idols-client.herokuapp.com/)
+  [Soloist](https://soompiworld-soloists-client.herokuapp.com/ )
+  [Discography](https://soompiworld-discography-client.herokuapp.com/)
+  [Actor](https://soompiworld-actor-client.herokuapp.com/)
+  [Series](https://soompiworld-series-client.herokuapp.com/)
+  [Movies](https://soompiworld-movies-client.herokuapp.com/ )
+  [Edge service](https://soompiworld-edge-service.herokuapp.com/ )
+  [Album](https://soompiworld-album-client.herokuapp.com/)
+  [Ost](https://soompiworld-ost-client.herokuapp.com/)
+  
+  
 
 ## <a name="link"></a>Link
+[Link](https://soompiworldweb.herokuapp.com/ )
 
 
 
