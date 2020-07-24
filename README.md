@@ -50,16 +50,16 @@ Thank you very much!
 **Deploy**
 - Heroku plattform
 
---Backend
-  [IdolGroup](https://soompiworld-idols-client.herokuapp.com/)
-  [Soloist](https://soompiworld-soloists-client.herokuapp.com/ )
-  [Discography](https://soompiworld-discography-client.herokuapp.com/)
-  [Actor](https://soompiworld-actor-client.herokuapp.com/)
-  [Series](https://soompiworld-series-client.herokuapp.com/)
-  [Movies](https://soompiworld-movies-client.herokuapp.com/ )
-  [Edge service](https://soompiworld-edge-service.herokuapp.com/ )
-  [Album](https://soompiworld-album-client.herokuapp.com/)
-  [Ost](https://soompiworld-ost-client.herokuapp.com/)
+  **Backend**
+  - [IdolGroup](https://soompiworld-idols-client.herokuapp.com/)
+  - [Soloist](https://soompiworld-soloists-client.herokuapp.com/ )
+  - [Discography](https://soompiworld-discography-client.herokuapp.com/)
+  - [Actor](https://soompiworld-actor-client.herokuapp.com/)
+  - [Series](https://soompiworld-series-client.herokuapp.com/)
+  - [Movies](https://soompiworld-movies-client.herokuapp.com/ )
+  - [Edge service](https://soompiworld-edge-service.herokuapp.com/ )
+  - [Album](https://soompiworld-album-client.herokuapp.com/)
+  - [Ost](https://soompiworld-ost-client.herokuapp.com/)
   
   
 
